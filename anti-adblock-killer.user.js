@@ -3785,7 +3785,7 @@
         // issue: https://github.com/reek/anti-adblock-killer/issues/178
         // issue: https://github.com/reek/anti-adblock-killer/issues/196
         // issue: https://github.com/reek/anti-adblock-killer/issues/56
-        host : ['kissanime.com', 'kissanime.to'],
+        host : ['kissanime.com', 'kissanime.to', 'kissanime.ru', 'kissanime.io'],
         onStart : function () {
           // Masking ads
           Aak.addStyle('iframe[id^="adsIfrme"], .divCloseBut { display:none; }');
@@ -3821,7 +3821,7 @@
       },
       Kisscartoon_me : {
         // issue: https://github.com/reek/anti-adblock-killer/issues/488
-        host : ['kisscartoon.me'],
+        host : ['kisscartoon.me','kisscartoon.io'],
         onAlways : function () {
           Aak.uw.xaZlE = function () {};
         },
