@@ -1,7 +1,7 @@
-##Anti-Adblock Killer | Reek
-![Anti-Adblock Killer](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/header.png)
+##Anti-Adblock Killer | Reek (scsc fork)
+![Anti-Adblock Killer](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/header.png)
 
-[![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/github_circle_32.png)](https://github.com/reek/anti-adblock-killer#anti-adblock-killer--reek)[![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/twitter_circle_32.png)](https://twitter.com/antiadbkiller)[![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/donate_circle_32.png)](https://github.com/reek/anti-adblock-killer#donate)
+[![](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/github_circle_32.png)](https://github.com/scscgit/anti-adblock-killer#anti-adblock-killer--reek)[![](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/twitter_circle_32.png)](https://twitter.com/antiadbkiller)[![](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/donate_circle_32.png)](https://github.com/scscgit/anti-adblock-killer#donate)
  
 ## ⚠ IMPORTANT ⚠
 > **THIS IS NOT A UNIVERSAL SOLUTION FOR ALL ANTI ADBLOCK SCRIPTS**
@@ -19,28 +19,28 @@ Composed of a user script «AakScript» written in javascript and a filter list 
 
 **Benefits: Your queries will be given the highest priority, and you will be credited in the source code as a generous donor.**
 
-* ![Paypal](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/paypal.png) Paypal: [Donate](http://bit.ly/aakpaypal)
-* ![Flattr](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/flattr.png) Flattr: [Donate](http://bit.ly/aakflattr)
-* ![Bitcoin](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/bitcoin.png)  Bitcoin: 35w5N6YBWgr1Y1Qj9YoY3amo7zCbXLEJsA
-* ![Dogecoin](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/dogecoin.png) Dogecoin: AF6TrxBAcnfv74zZmyP7jsHzRptmPzZBGr
-* ![Litecoin](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/litecoin.png)  Litecoin: 3EuoNXue1Fm6Jypiiuf6aXVFvJxhZ5Gqou
+* ![Paypal](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/paypal.png) Paypal: [Donate](http://bit.ly/aakpaypal)
+* ![Flattr](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/flattr.png) Flattr: [Donate](http://bit.ly/aakflattr)
+* ![Bitcoin](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/bitcoin.png)  Bitcoin: 35w5N6YBWgr1Y1Qj9YoY3amo7zCbXLEJsA
+* ![Dogecoin](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/dogecoin.png) Dogecoin: AF6TrxBAcnfv74zZmyP7jsHzRptmPzZBGr
+* ![Litecoin](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/litecoin.png)  Litecoin: 3EuoNXue1Fm6Jypiiuf6aXVFvJxhZ5Gqou
 
 
 
 ## Instruction
 
 #### Step 1: ScriptManager
-* ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/firefox.png) [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) or Scriptish (Not supported/Addon has been discontinued)
-* ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/chrome.png) [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or Native (Not supported)
-* ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/opera.png) [Tampermonkey](https://addons.opera.com/extensions/details/tampermonkey-beta/) or [Violentmonkey](https://addons.opera.com/extensions/details/violent-monkey/) 
-* ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/safari.png) [Tampermonkey](https://safari.tampermonkey.net/tampermonkey.safariextz) or [NinjaKit](https://github.com/os0x/NinjaKit)
-* ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/msedge.png) [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)
+* ![](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/firefox.png) [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/) or Scriptish (Not supported/Addon has been discontinued)
+* ![](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/chrome.png) [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) or Native (Not supported)
+* ![](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/opera.png) [Tampermonkey](https://addons.opera.com/extensions/details/tampermonkey-beta/) or [Violentmonkey](https://addons.opera.com/extensions/details/violent-monkey/) 
+* ![](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/safari.png) [Tampermonkey](https://safari.tampermonkey.net/tampermonkey.safariextz) or [NinjaKit](https://github.com/os0x/NinjaKit)
+* ![](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/msedge.png) [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)
 
 > ##### Note: After installation (which requires restarting your browser), you are now ready to install userscripts.
 
 #### Step 2: FilterList
 
-* [Subscribe](http://reek.github.io/anti-adblock-killer/#filterlist) *from github.com*
+* [Subscribe](http://scscgit.github.io/anti-adblock-killer/#filterlist) *from github.com*
 * [Subscribe](http://reeksite.com/anti-adblock-killer/#filterlist) *from reeksite.com*
 
 > ##### Note: uBlock Origin, you must enable AakList in Options -> 3rd-party-filters and [Apply changes].
@@ -48,18 +48,18 @@ Composed of a user script «AakScript» written in javascript and a filter list 
 #### Step 3: UserScript
 * [Install](https://greasyfork.org/scripts/735-anti-adblock-killer-reek/code/Anti-Adblock%20Killer%20%7C%20Reek.user.js) *from greasyfork.org*
 * [Install](https://openuserjs.org/install/reek/Anti-Adblock_Killer_Reek.user.js) *from openuserjs.org*
-* [Install](https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer.user.js) *from github.com*
+* [Install](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/master/anti-adblock-killer.user.js) *from github.com*
 * [Install](http://reeksite.com/anti-adblock-killer/anti-adblock-killer.user.js) *from reeksite.com*
 
 > ##### Note: [Test](http://tinyurl.com/qecfa7w)
 
 #### Step 4: Support Author
-* [Donate It](https://github.com/reek/anti-adblock-killer#donate)
+* [Donate It](https://github.com/scscgit/anti-adblock-killer#donate)
 * Rate It
 * Share It (Social Network, Forums, Blogs, etc.)
 * Follow It ([Twitter](https://twitter.com/antiadbkiller))
 * Become a Fan
-* [Report Anti-Adblockers](https://github.com/reek/anti-adblock-killer/wiki/Report-Guide)
+* [Report Anti-Adblockers](https://github.com/scscgit/anti-adblock-killer/wiki/Report-Guide)
 
 
 ## Features
@@ -67,12 +67,12 @@ Composed of a user script «AakScript» written in javascript and a filter list 
 * Check if Anti-Adblock Killer list is installed
 * Check & Notify updates
 * More filters for Adblockers
-* [Settings](http://reek.github.io/anti-adblock-killer/#settings)
-* [Suggest features](https://github.com/reek/anti-adblock-killer/issues)
+* [Settings](http://scscgit.github.io/anti-adblock-killer/#settings)
+* [Suggest features](https://github.com/scscgit/anti-adblock-killer/issues)
 
 
 ## Report
-* [Issue or website](https://github.com/reek/anti-adblock-killer/wiki/Report-Guide)
+* [Issue or website](https://github.com/scscgit/anti-adblock-killer/wiki/Report-Guide)
 
 
 ## Help
@@ -93,23 +93,23 @@ Composed of a user script «AakScript» written in javascript and a filter list 
 * Force an update Adblocker lists
 * Force an update Script Manager
 * Check if the site is in "Supported Sites" or in "Changelog".
-  * If the site is not in it, please report it [here](https://github.com/reek/anti-adblock-killer/wiki/Report-Guide).
-  * If it exists, but the script does not work, it probably means that the antiadblocker has changed, please report it [here](https://github.com/reek/anti-adblock-killer/wiki/Report-Guide)
+  * If the site is not in it, please report it [here](https://github.com/scscgit/anti-adblock-killer/wiki/Report-Guide).
+  * If it exists, but the script does not work, it probably means that the antiadblocker has changed, please report it [here](https://github.com/scscgit/anti-adblock-killer/wiki/Report-Guide)
 * Try with another Browser.
 * Try with another Script Manager.
-* How to disable the update check [Settings](http://reek.github.io/anti-adblock-killer/#settings)
-* How to disable the list check [Settings](http://reek.github.io/anti-adblock-killer/#settings)
+* How to disable the update check [Settings](http://scscgit.github.io/anti-adblock-killer/#settings)
+* How to disable the list check [Settings](http://scscgit.github.io/anti-adblock-killer/#settings)
 * How write Adblock filters [here](https://adblockplus.org/en/filters)
 * Where can report an advertisement [here](https://forums.lanik.us/)
 * Consult Discussions or Issues
 
 
 ## Supported Browsers
-* ![Firefox](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/firefox.png) Firefox &#10004;
-* ![Chrome](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/chrome.png) Chrome &#10004;
-* ![Opera](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/opera.png) Opera &#10004;
-* ![Safari](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/safari.png) Safari &#10004;
-* ![Edge](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/msedge.png) Microsoft Edge &#10004;
+* ![Firefox](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/firefox.png) Firefox &#10004;
+* ![Chrome](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/chrome.png) Chrome &#10004;
+* ![Opera](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/opera.png) Opera &#10004;
+* ![Safari](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/safari.png) Safari &#10004;
+* ![Edge](https://raw.githubusercontent.com/scscgit/anti-adblock-killer/gh-pages/images/msedge.png) Microsoft Edge &#10004;
 
 
 ## Supported Adblockers
@@ -669,7 +669,7 @@ Composed of a user script «AakScript» written in javascript and a filter list 
 
 
 ## Mirrors
-* [Github](https://github.com/reek/anti-adblock-killer)
+* [Github](https://github.com/scscgit/anti-adblock-killer)
 * [Greasyfork](https://greasyfork.org/scripts/735-anti-adblock-killer-reek)
 * [Openuserjs](https://openuserjs.org/scripts/reek/Anti-Adblock_Killer_Reek)
 * [Reeksite](https://reeksite.com/anti-adblock-killer/)
