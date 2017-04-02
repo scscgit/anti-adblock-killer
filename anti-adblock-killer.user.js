@@ -1,19 +1,19 @@
 // ==UserScript==
-// @name Anti-Adblock Killer | Reek
+// @name Anti-Adblock Killer | Reek (scsc fork)
 // @namespace https://userscripts.org/scripts/show/155840
 // @description Helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 // @author Reek | reeksite.com
 // @version 10.0
 // @encoding utf-8
 // @license https://creativecommons.org/licenses/by-sa/4.0/
-// @icon https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-icon.png
-// @homepage https://github.com/reek/anti-adblock-killer/
+// @icon https://raw.github.com/scscgit/anti-adblock-killer/master/anti-adblock-killer-icon.png
+// @homepage https://github.com/scscgit/anti-adblock-killer/
 // @twitterURL https://twitter.com/antiadbkiller
-// @contactURL https://reek.github.io/anti-adblock-killer/#contact
-// @supportURL https://github.com/reek/anti-adblock-killer/issues
-// @contributionURL https://github.com/reek/anti-adblock-killer#donate
-// @updateURL https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer.user.js
-// @downloadURL https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer.user.js
+// @contactURL https://scscgit.github.io/anti-adblock-killer/#contact
+// @supportURL https://github.com/scscgit/anti-adblock-killer/issues
+// @contributionURL https://github.com/scscgit/anti-adblock-killer#donate
+// @updateURL https://raw.githubusercontent.com/scscgit/anti-adblock-killer/master/anti-adblock-killer.user.js
+// @downloadURL https://raw.githubusercontent.com/scscgit/anti-adblock-killer/master/anti-adblock-killer.user.js
 // @include http://*/*
 // @include https://*/*
 // @grant unsafeWindow
@@ -74,22 +74,22 @@
   "use strict";
   
   var Aak = {
-    name : 'Anti-Adblock Killer',
+    name : 'Anti-Adblock Killer (scsc fork)',
     version : '10.0',
     scriptid : 'gJWEp0vB',
-    homeURL : 'https://github.com/reek/anti-adblock-killer/',
-    changelogURL : 'https://github.com/reek/anti-adblock-killer#changelog',
-    donateURL : 'https://github.com/reek/anti-adblock-killer#donate',
-    featuresURL : 'https://github.com/reek/anti-adblock-killer#features',
-    reportURL : 'https://github.com/reek/anti-adblock-killer/wiki/Report-Guide',
-    contactURL : 'https://reek.github.io/anti-adblock-killer/#contact',
-    settingsURL : 'https://reek.github.io/anti-adblock-killer/#settings',
+    homeURL : 'https://github.com/scscgit/anti-adblock-killer/',
+    changelogURL : 'https://github.com/scscgit/anti-adblock-killer#changelog',
+    donateURL : 'https://github.com/scscgit/anti-adblock-killer#donate',
+    featuresURL : 'https://github.com/scscgit/anti-adblock-killer#features',
+    reportURL : 'https://github.com/scscgit/anti-adblock-killer/wiki/Report-Guide',
+    contactURL : 'https://scscgit.github.io/anti-adblock-killer/#contact',
+    settingsURL : 'https://scscgit.github.io/anti-adblock-killer/#settings',
     twitterURL : 'https://twitter.com/antiadbkiller',
-    downloadURL : 'https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer.user.js',
-    subscribeURL : 'https://reek.github.io/anti-adblock-killer/#filterlist',
-    listURL : "https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt",
-    nativeURL : 'https://github.com/reek/anti-adblock-killer/wiki/Native-Mode',
-    iconURL : 'https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-icon.png',
+    downloadURL : 'https://raw.githubusercontent.com/scscgit/anti-adblock-killer/master/anti-adblock-killer.user.js',
+    subscribeURL : 'https://scscgit.github.io/anti-adblock-killer/#filterlist',
+    listURL : "https://raw.githubusercontent.com/scscgit/anti-adblock-killer/master/anti-adblock-killer-filters.txt",
+    nativeURL : 'https://github.com/scscgit/anti-adblock-killer/wiki/Native-Mode',
+    iconURL : 'https://raw.githubusercontent.com/scscgit/anti-adblock-killer/master/anti-adblock-killer-icon.png',
     imgBait : 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAAGklEQVR42mNg0GAYBaNgFIyCUTAKRsEoQAYATN8AKYNZ/x4AAAAASUVORK5CYII=',
     initialize : function () {
       Aak.registerSettings(); // registering your settings.
@@ -387,7 +387,7 @@
           frameborder : 0,
           scrolling : 'no',
           //src : '//localhost/git/anti-adblock-killer-pages/notification.html#' + btoa(message),
-          src : '//reek.github.io/anti-adblock-killer/notification.html#' + window.btoa(message),
+          src : '//scscgit.github.io/anti-adblock-killer/notification.html#' + window.btoa(message),
           append : 'body',
           callback : function (self) {
 
@@ -1493,7 +1493,7 @@
       // Anti-Adblock Killer
       // --------------------------------------------------------------------------------------------
       settings : {
-        host : ['localhost', 'reek.github.io', 'reeksite.com'],
+        host : ['localhost', 'scscgit.github.io', 'reek.github.io', 'reeksite.com'],
         onEnd : function () {
 
           if (/\/anti-adblock-killer(-pages)?\/$/.test(location.pathname)) {
